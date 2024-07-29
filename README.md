@@ -29,3 +29,4 @@ A curated collection of design resources, tools, and tutorials for designers.
 - [Portfolios](inspirations/portfolios)
 
 Feel free to contribute by opening issues or submitting pull requests!
+yes
